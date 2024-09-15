@@ -50,7 +50,7 @@ to go
 end
 
 
-;Por practicidad se colocó a la hormiga como una tortuga. Para seguir una definición más extricta de autómata celular, podría modelarse omitiendo a la tortuga
+;Por practicidad se colocó a la hormiga como una tortuga. Para seguir una definición más estricta de autómata celular, podría modelarse omitiendo a la tortuga
 ;y cambiando el color de su celda con 8 colores diferentes, según el color en el que se encuentra y la dirección en la que mira.
 ;De todas maneras, el comportamiento sería igual.
 
